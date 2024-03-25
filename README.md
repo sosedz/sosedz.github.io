@@ -1,4 +1,3 @@
-# sosedz.github.io
 <center>
 <span style="font-size:20px">搜色搜索最新地址</span><br>
 <br />
